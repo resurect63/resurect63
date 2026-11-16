@@ -1,13 +1,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=RESURECT&fontSize=65&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%2F%20PROJECT%20BUILDER&descAlignY=72&descSize=13" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=190&section=header&text=RESURECT&fontSize=68&fontColor=FFFFFF&fontAlignY=43&desc=SOFTWARE%20DEVELOPER%20%2F%20PROJECT%20CREATOR&descAlignY=70&descSize=13" width="100%" />
 
 <br/>
 
-**Ideas into digital reality.**
+### Ideas into digital reality.
 
-`SOFTWARE ENGINEERING` · `WEB DEVELOPMENT` · `MINECRAFT DEVELOPMENT`
+`SOFTWARE ENGINEERING` · `WEB DEVELOPMENT` · `SYSTEM ARCHITECTURE`
 
 [GitHub](https://github.com/resurect63) &nbsp; / &nbsp; [Email](mailto:itznightitznight16@gmail.com)
 
@@ -15,88 +15,137 @@
 
 ---
 
-## 01 / ABOUT
+## 01 / ABOUT ME
 
-```text
-NAME       Resurect
-ROLE       Independent Developer
-FOCUS      Software · Web · Minecraft
-IDENTITY   Developer & Project Creator
-```
+I'm **Resurect**, an independent software developer and project creator focused on building digital products, software solutions, and modern web experiences.
 
-I'm **Resurect**, an independent developer interested in building software, digital products, and technical systems.
+I enjoy working across different areas of development, from designing user interfaces to developing backend systems and managing technical projects.
 
-My work focuses on software engineering, web technologies, Minecraft development, and creating tools that turn ideas into functional experiences.
+My approach combines technical exploration, structured development, problem-solving, and continuous improvement.
 
-I enjoy exploring new technologies, designing systems, solving problems, and continuously improving my development skills.
+I believe in building meaningful projects, writing maintainable code, and turning ideas into practical solutions.
 
 ---
 
-## 02 / TECHNICAL EXPERTISE
+## 02 / PROGRAMMING LANGUAGES
 
-### Programming Languages
+<div align="center">
 
-<p>
 <img src="https://skillicons.dev/icons?i=java,js,ts,php,html,css,c&theme=dark" />
-</p>
 
-### Frameworks & Development
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark" />
-</p>
-
-### Database & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github&theme=dark" />
-</p>
-
-### Minecraft Development
-
-```text
-Paper          Plugin Development
-Spigot         Server Development
-Velocity       Proxy Systems
-BungeeCord     Network Infrastructure
-Vault          Economy Integration
-LuckPerms      Permission Management
-```
+- Java
+- JavaScript
+- TypeScript
+- PHP
+- HTML5
+- CSS3
+- C
 
 ---
 
-## 03 / SELECTED PROJECTS
+## 03 / FRONTEND DEVELOPMENT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+
+</div>
+
+- React
+- Next.js
+- Tailwind CSS
+- Responsive Web Design
+- UI Development
+- Component-Based Architecture
+- Modern Web Interfaces
+
+---
+
+## 04 / BACKEND DEVELOPMENT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb&theme=dark" />
+
+</div>
+
+- Node.js
+- PHP
+- REST API Development
+- MySQL
+- MongoDB
+- Database Design
+- Backend Architecture
+- API Integration
+
+---
+
+## 05 / TOOLS & INFRASTRUCTURE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,idea,vscode&theme=dark" />
+
+</div>
+
+- Git & GitHub
+- Docker
+- Linux
+- IntelliJ IDEA
+- Visual Studio Code
+- Version Control
+- Development Environments
+- Technical Troubleshooting
+
+---
+
+## 06 / PROJECT MANAGEMENT
+
+- Project Planning & Organization
+- Technical Project Management
+- System Architecture Planning
+- Development Workflow Management
+- Team Coordination
+- Problem Analysis & Resolution
+- Project Documentation
+- Continuous Improvement
+
+---
+
+## 07 / SELECTED PROJECTS
 
 <table>
 <tr>
 <td width="50%">
 
-### Imperial Launcher
+### PKDEV.Security
 
-Minecraft Java desktop launcher with version management and mod-loader support.
+A security-focused digital project.
 
 </td>
 <td width="50%">
 
-### Project Delta
+### Imperial Launcher
 
-Extraction-inspired Minecraft experience with exploration, equipment, and gameplay systems.
+A desktop application project focused on a modern user experience and application management.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### PKDEV.Security
+### PKDEV.Hub
 
-Security-focused digital project.
+A central concept for connecting digital projects and services.
 
 </td>
 <td width="50%">
 
 ### PkdevStore
 
-Minecraft store plugin with economy integration and rank management.
+A custom software project with an extensible architecture.
 
 </td>
 </tr>
@@ -105,14 +154,14 @@ Minecraft store plugin with economy integration and rank management.
 
 ### Moderator Academy
 
-Educational platform for Minecraft staff training and moderation.
+An educational platform focused on structured learning and community knowledge.
 
 </td>
 <td width="50%">
 
-### NOCTGuard
+### Project Delta
 
-Minecraft server protection and management project.
+A project focused on system design, gameplay concepts, and interactive experiences.
 
 </td>
 </tr>
@@ -120,19 +169,19 @@ Minecraft server protection and management project.
 
 ---
 
-## 04 / DEVELOPMENT PHILOSOPHY
+## 08 / DEVELOPMENT PHILOSOPHY
 
-| PHASE | APPROACH |
+| STAGE | DESCRIPTION |
 |:---:|---|
 | 01 | Research — Understand the problem |
-| 02 | Architecture — Design the foundation |
-| 03 | Development — Build functional solutions |
-| 04 | Testing — Validate and improve |
-| 05 | Evolution — Keep learning and refining |
+| 02 | Planning — Define the architecture |
+| 03 | Development — Build the solution |
+| 04 | Testing — Validate functionality |
+| 05 | Improvement — Refine and optimize |
 
 ---
 
-## 05 / GITHUB STATISTICS
+## 09 / GITHUB STATISTICS
 
 <div align="center">
 
@@ -142,17 +191,18 @@ Minecraft server protection and management project.
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=resurect63&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" width="70%" />
+<img src="https://streak-stats.demolab.com?user=resurect63&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" width="75%" />
 
 </div>
 
 ---
 
-## 06 / CONNECT
+## 10 / CONNECT
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/resurect63)
+
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itznightitznight16@gmail.com)
 
 **Discord:** `.Resurect.`
@@ -163,8 +213,8 @@ Minecraft server protection and management project.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=BUILT%20BY%20RESURECT&fontSize=20&fontColor=FFFFFF&fontAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=BUILT%20BY%20RESURECT&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" />
 
-**RESURECT — BUILD WITH PURPOSE.**
+**RESURECT — BUILT WITH PURPOSE.**
 
 </div>
