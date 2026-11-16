@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=190&section=header&text=RESURECT&fontSize=68&fontColor=FFFFFF&fontAlignY=43&desc=SOFTWARE%20DEVELOPER%20%2F%20PROJECT%20CREATOR&descAlignY=70&descSize=13" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=190&section=header&text=PKDEV&fontSize=68&fontColor=FFFFFF&fontAlignY=43&desc=SOFTWARE%20DEVELOPER%20%2F%20PROJECT%20CREATOR&descAlignY=70&descSize=13" width="100%" />
 
 <br/>
 
