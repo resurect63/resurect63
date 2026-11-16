@@ -1,132 +1,122 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=180&section=header&text=PKDEV.&fontSize=65&fontColor=FF7900&animation=fadeIn&fontAlignY=40&desc=BUILT%20BY%20RESURECT&descAlignY=68&descSize=16&descColor=FFFFFF" width="100%"/>
+# PKDEV
 
-### INDEPENDENT DEVELOPMENT BRAND
+**IDEAS INTO DIGITAL REALITY.**
 
-# Ideas into digital reality.
+`SOFTWARE DEVELOPMENT` · `DIGITAL ENGINEERING` · `PROJECTS`
 
-Building software, Minecraft experiences and digital solutions with purpose.
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Resurect63-FF7900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/resurect63)
-[![Website](https://img.shields.io/badge/Website-PKDEV-FF7900?style=for-the-badge&logo=googlechrome&logoColor=white)](https://resurect63.github.io/pkdev.website/)
-[![Telegram](https://img.shields.io/badge/Telegram-Connect-FF7900?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Resurect63)
+**Created by Resurect**
 
-<img src="https://komarev.com/ghpvc/?username=resurect63&label=PROFILE+VIEWS&color=FF7900&style=flat-square" />
+[GitHub](https://github.com/resurect63) &nbsp;·&nbsp; [Email](mailto:itznightitznight16@gmail.com)
 
 </div>
 
 ---
 
-## `01 / ABOUT ME`
+## 01 / INTRODUCTION
 
 I'm **Resurect**, the creator behind **PKDEV**.
 
-PKDEV is an independent development brand focused on turning ideas into practical digital products.
+I build digital products, develop software, explore technologies, and transform ideas into functional experiences.
 
-My main interests include:
+PKDEV is my independent development identity — a space for engineering, experimentation, and long-term projects.
 
-- Software development and applications
-- Minecraft development and server systems
-- Modern websites and digital interfaces
-- Exploring new technologies and creative ideas
-
-> Build with purpose. Improve with every iteration.
+My focus is not just writing code. It's understanding problems, designing solutions, and building things with purpose.
 
 ---
 
-## `02 / TECH STACK`
+## 02 / WHAT I DO
 
-Technologies and tools used across my development projects.
+| FIELD | DESCRIPTION |
+|:--|:--|
+| Software Development | Building applications and digital tools |
+| Web Development | Creating modern web experiences |
+| Minecraft Development | Plugins, systems, and server infrastructure |
+| Project Development | Turning concepts into functional products |
+| Technical Exploration | Learning and experimenting with technologies |
+
+---
+
+## 03 / SELECTED PROJECTS
+
+### PKDEV.Security
+A security-focused digital project.
+
+### Imperial Launcher
+A Minecraft Java launcher focused on version management and a modern user experience.
+
+### Moderator Academy
+An educational project designed around Minecraft staff training and moderation.
+
+### Project Delta
+An extraction-inspired Minecraft experience built around exploration, equipment, and objectives.
+
+### PKDEV.Hub
+A central concept for connecting PKDEV projects and services.
+
+### SWAT Force
+A Minecraft community-related project.
+
+---
+
+## 04 / TECHNOLOGIES
+
+**LANGUAGES**
+
+![Java](https://img.shields.io/badge/JAVA-111111?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111111?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-111111?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=white)
+
+**FRAMEWORKS & TOOLS**
+
+![React](https://img.shields.io/badge/REACT-111111?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-111111?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-111111?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-111111?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-111111?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-111111?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-111111?style=flat-square&logo=git&logoColor=white)
+
+**MINECRAFT ECOSYSTEM**
+
+![Paper](https://img.shields.io/badge/PAPER-111111?style=flat-square&logoColor=white)
+![Spigot](https://img.shields.io/badge/SPIGOT-111111?style=flat-square&logoColor=white)
+
+---
+
+## 05 / GITHUB ACTIVITY
 
 <div align="center">
 
-### Languages & Web
+<img src="https://github-readme-stats.vercel.app/api?username=resurect63&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="49%" />
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,php&theme=dark" />
-
-### Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,electron&theme=dark" />
-
-### Databases & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,linux,docker&theme=dark" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resurect63&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa" width="49%" />
 
 </div>
 
 ---
 
-## `03 / FEATURED PROJECTS`
+## 06 / CONTACT
 
-Some projects and experiments under the PKDEV identity.
+**Let's build something meaningful.**
 
-| Project | Description | Status |
-|---|---|---|
-| **PKDEV.Security** | Security-focused development project | Available |
-| **Imperial Launcher** | Minecraft Java launcher concept | Available |
-| **Moderator Academy** | Minecraft moderation education | Available |
-| **PKDEV.Hub** | Desktop workspace and tools | In Development |
-| **Project Delta** | Minecraft game mode concept | In Development |
-| **SWAT Force** | Mission-based Minecraft game mode | In Development |
-
-Explore all projects:
-
-**[PKDEV Official Website](https://resurect63.github.io/pkdev.website/)**
-
----
-
-## `04 / GITHUB STATISTICS`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=resurect63&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF7900&icon_color=FF7900&text_color=FFFFFF&ring_color=FF7900" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resurect63&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF7900&text_color=FFFFFF" />
-
-</div>
-
----
-
-## `05 / CONTRIBUTION ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=resurect63&bg_color=0D0D0D&color=FFFFFF&line=FF7900&point=FFFFFF&area=true&area_color=FF7900&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## `06 / CONNECT WITH ME`
-
-Have an idea, project or collaboration in mind?
-
-Feel free to connect.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-FF7900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/resurect63)
-[![Telegram](https://img.shields.io/badge/Telegram-FF7900?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Resurect63)
-[![Website](https://img.shields.io/badge/PKDEV-FF7900?style=for-the-badge&logo=googlechrome&logoColor=white)](https://resurect63.github.io/pkdev.website/)
-
-</div>
+- GitHub — [resurect63](https://github.com/resurect63)
+- Discord — `resurect.`
+- Email — [itznightitznight16@gmail.com](mailto:itznightitznight16@gmail.com)
 
 ---
 
 <div align="center">
 
-### PKDEV<span style="color:#FF7900">.</span>
+**PKDEV**
 
-**BUILT BY RESURECT**
-
-*Ideas into digital reality.*
-
-<sub>© 2026 PKDEV. All rights reserved.</sub>
+`DESIGNED WITH PURPOSE. BUILT BY RESURECT.`
 
 </div>
