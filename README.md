@@ -5,7 +5,7 @@
 
 <br/>
 
-<h2>Software Developer | Minecraft Developer</h2>
+<h2>Project Manager</h2>
 
 <p>
 Passionate about building software, developing Minecraft systems,
